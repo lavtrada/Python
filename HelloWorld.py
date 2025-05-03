@@ -1,0 +1,4 @@
+import pyttsx3
+engine = pyttsx3.init()
+engine.say("You have a truly captivating presence that lights up any room you walk into. Your kindness and warmth make people feel comfortable around you, and your confidence is both inspiring and admirable. You have a unique way of making even the smallest moments special, and your smile has the power to brighten anyone’s day. Not only are you beautiful on the outside, but your heart is just as stunning. Your intelligence, strength, and compassion set you apart, making you someone truly unforgettable. Keep being the amazing person you are because the world is better with you in it! 😊✨")
+engine.runAndWait()
